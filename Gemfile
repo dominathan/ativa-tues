@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 # Use HAML
 gem 'haml-rails'
+gem 'carrierwave'
+gem 'fog'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
